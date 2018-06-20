@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="KffAuctionAnalysis.Views.SimulationStatusView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KffAuctionAnalysis.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UniformGrid Columns="2" VerticalAlignment="Center">
+        <UniformGrid.Resources>
+            <Style TargetType="TextBlock">
+                <Setter Property="Margin" Value="10,10,10,0" />
+            </Style>
+        </UniformGrid.Resources>
+        
+        <TextBlock>Simulation Status:</TextBlock>
+        <TextBlock Text="{Binding Status}" />
+
+        <TextBlock>Auction Number:</TextBlock>
+        <TextBlock>
+            <TextBlock.Text>
+                <MultiBinding StringFormat="{}{0}/{1}">
+                    <Binding Path="AuctionNumber" />
+                    <Binding Path="NumberOfAuctions" />
+                </MultiBinding>
+            </TextBlock.Text>
+        </TextBlock>
+    </UniformGrid>
+</UserControl>
