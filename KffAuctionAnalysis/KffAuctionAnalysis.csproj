@@ -48,9 +48,8 @@
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="KffSimulations, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Logan_simulations\kff-grant-fcc-simulations\KffSimulations\bin\Debug\KffSimulations.exe</HintPath>
+    <Reference Include="KffSimulations">
+      <HintPath>..\..\FCC Work\kff-grant-fcc-simulations\KffSimulations\bin\Debug\KffSimulations.exe</HintPath>
     </Reference>
     <Reference Include="LpSolveDotNet, Version=3.0.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\LpSolveDotNet.3.0.1\lib\net20\LpSolveDotNet.dll</HintPath>

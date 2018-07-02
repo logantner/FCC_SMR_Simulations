@@ -352,6 +352,13 @@ namespace KffAuctionAnalysis
                         sb.Append(Math.Max(product.AggregateDemand - product.supply, 0)).Append(",");
                         sb.Append(((RobotBidder)bidders[b.BidderIdx]).budget).Append(",");
                         sb.Append(forwardAuction.Products.Sum(p => p.Demand(b.BidderIdx) * p.PostedPrice));
+
+                        if (d is RobotBid)
+                        { 
+                            RobotBid rb = d as RobotBid;
+                            sb.Append(",").Append(string.Join("; ", rb.Values));
+                        }
+
                         writer.WriteLine(sb.ToString());
                     }
 
