@@ -1,0 +1,212 @@
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\LoadAuctionView.g.cs
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\AuctionStatusView.g.cs
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SearchAuctionsView.g.cs
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SimulationStatusView.g.cs
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\StatusView.g.cs
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\App.g.cs
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis_MarkupCompile.cache
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis_MarkupCompile.lref
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe.config
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.pdb
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.dll
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\KffSimulations.exe
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\LpSolveDotNet.dll
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\LpSolveMilpSolver.dll
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\MilpManager.dll
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\MySql.Data.dll
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.xml
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\KffSimulations.pdb
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\MainWindow.baml
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\LoadAuctionView.baml
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\AuctionStatusView.baml
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SearchAuctionsView.baml
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SimulationStatusView.baml
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\StatusView.baml
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.g.resources
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.Properties.Resources.resources
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.GenerateResource.Cache
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.exe
+C:\Users\gantner\Desktop\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.pdb
+C:\Users\gantner\Desktop\FCC Work\kff-grant-bid-extractor\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe.config
+C:\Users\gantner\Desktop\FCC Work\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.exe
+C:\Users\gantner\Desktop\FCC Work\kff-grant-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.pdb
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe.config
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.exe
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.pdb
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\LoadAuctionView.g.cs
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\AuctionStatusView.g.cs
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SearchAuctionsView.g.cs
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SimulationStatusView.g.cs
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\StatusView.g.cs
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\App.g.cs
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis_MarkupCompile.cache
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis_MarkupCompile.lref
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.pdb
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.dll
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffSimulations.exe
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\LpSolveDotNet.dll
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\LpSolveMilpSolver.dll
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\MilpManager.dll
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\MySql.Data.dll
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.xml
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffSimulations.pdb
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\MainWindow.baml
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\LoadAuctionView.baml
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\AuctionStatusView.baml
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SearchAuctionsView.baml
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SimulationStatusView.baml
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\StatusView.baml
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.g.resources
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.Properties.Resources.resources
+C:\Users\gantner\Desktop\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.GenerateResource.Cache
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe.config
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.pdb
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.dll
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffSimulations.exe
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\LpSolveDotNet.dll
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\LpSolveMilpSolver.dll
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\MilpManager.dll
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.xml
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffSimulations.pdb
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\KffSimulations.exe.config
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csprojAssemblyReference.cache
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\LoadAuctionView.g.cs
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\AuctionStatusView.g.cs
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SearchAuctionsView.g.cs
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SimulationStatusView.g.cs
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\StatusView.g.cs
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\App.g.cs
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis_MarkupCompile.cache
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis_MarkupCompile.lref
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\MainWindow.baml
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\LoadAuctionView.baml
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\AuctionStatusView.baml
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SearchAuctionsView.baml
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\SimulationStatusView.baml
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\Views\StatusView.baml
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.g.resources
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.Properties.Resources.resources
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.GenerateResource.cache
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.CopyComplete
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.exe
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.pdb
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\MySql.Data.dll
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\MySql.Data.xml
+C:\Users\rfrench\Desktop\smr\kff-smr-bid-extractor\KffAuctionAnalysis\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe.config
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.pdb
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\EntityFramework.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\LpSolveDotNet.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\LpSolveMilpSolver.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\MilpManager.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\MySql.Data.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\EntityFramework.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\KffSimulations.pdb
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\KffSimulations.exe.config
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\MySql.Data.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csprojAssemblyReference.cache
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\Views\LoadAuctionView.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\Views\AuctionStatusView.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\Views\SearchAuctionsView.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\Views\SimulationStatusView.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\Views\StatusView.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\App.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis_MarkupCompile.cache
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis_MarkupCompile.lref
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\MainWindow.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\Views\LoadAuctionView.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\Views\AuctionStatusView.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\Views\SearchAuctionsView.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\Views\SimulationStatusView.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\Views\StatusView.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.g.resources
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.Properties.Resources.resources
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.GenerateResource.cache
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.CopyComplete
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.exe
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.pdb
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\bin\Debug\KffSimulations.exe
+C:\Users\gantner\Desktop\SMR Bid Extractor Original\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.exe.config
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe.config
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.exe
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\KffAuctionAnalysis.pdb
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\EntityFramework.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\Google.Protobuf.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\KffSimulations.exe
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\LpSolveDotNet.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\LpSolveMilpSolver.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\MilpManager.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\MySql.Data.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\Google.OrTools.dll
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\EntityFramework.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\Google.Protobuf.pdb
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\Google.Protobuf.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\KffSimulations.pdb
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\KffSimulations.exe.config
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\MySql.Data.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csprojAssemblyReference.cache
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.exe.config
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\Views\LoadAuctionView.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\Views\AuctionStatusView.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\Views\SearchAuctionsView.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\Views\SimulationStatusView.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\Views\StatusView.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\App.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis_MarkupCompile.cache
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis_MarkupCompile.lref
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\MainWindow.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\Views\LoadAuctionView.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\Views\AuctionStatusView.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\Views\SearchAuctionsView.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\Views\SimulationStatusView.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\Views\StatusView.baml
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.g.resources
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.Properties.Resources.resources
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.GenerateResource.cache
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.csproj.CopyComplete
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.exe
+C:\Users\gantner\Desktop\SMR Bid Extractor Ortools\KffAuctionAnalysis\obj\Debug\KffAuctionAnalysis.pdb

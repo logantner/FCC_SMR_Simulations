@@ -111,7 +111,7 @@ namespace KffAuctionAnalysis
         private void RunAuction(object sender, DoWorkEventArgs e)
         {
             Auction auction = (Auction)e.Argument;
-            auction.StartForwardAuction();
+            auction.RunAuction();
             e.Result = statusVM.Revenue;
         }
 
